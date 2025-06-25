@@ -1,0 +1,1 @@
+This is github repository represnt the chatgpt answer of different subjects mainly of Third sem of BCA.
